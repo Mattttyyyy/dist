@@ -53,6 +53,6 @@ export function Dashboard() {
   );
 }
 
-Dashboard.displayName = "/src/layout/dashboard.jsx";
+Dashboard.displayName = "/mattpanel/layout/dashboard.jsx";
 
 export default Dashboard;
