@@ -1,8 +1,8 @@
 import { Routes, Route } from "react-router-dom";
 import { Cog6ToothIcon } from "@heroicons/react/24/solid";
 import { IconButton } from "@material-tailwind/react";
-import darkLogo from '../assets/logo-ct-dark.png';
-import normalLogo from '../assets/logo-ct.png';
+import darkLogo from '../../public/assets/logo-ct-dark.png';
+import normalLogo from '../../public/assets/logo-ct.png';
 import {
   Sidenav,
   DashboardNavbar,
