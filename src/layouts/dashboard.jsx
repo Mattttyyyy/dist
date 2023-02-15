@@ -19,7 +19,7 @@ export function Dashboard() {
       <Sidenav
         routes={routes}
         brandImg={
-          sidenavType === "dark" ? "/src/assets/logo-ct.png" : "/src/assets/logo-ct-dark.png"
+          sidenavType === "dark" ? "/mattpanel/assets/logo-ct.png" : "/mattpanel/assets/logo-ct-dark.png"
         }
       />
       <div className="p-4 xl:ml-80">
@@ -51,6 +51,6 @@ export function Dashboard() {
   );
 }
 
-Dashboard.displayName = "/src/layout/dashboard.jsx";
+Dashboard.displayName = "/mattpanel/layout/dashboard.jsx";
 
 export default Dashboard;

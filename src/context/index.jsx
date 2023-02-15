@@ -65,7 +65,7 @@ export function useMaterialTailwindController() {
   return context;
 }
 
-MaterialTailwindControllerProvider.displayName = "/src/context/index.jsx";
+MaterialTailwindControllerProvider.displayName = "/mattpanel/context/index.jsx";
 
 MaterialTailwindControllerProvider.propTypes = {
   children: PropTypes.node.isRequired,

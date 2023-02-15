@@ -53,6 +53,6 @@ export function Auth() {
   );
 }
 
-Auth.displayName = "/src/layout/Auth.jsx";
+Auth.displayName = "/mattpanel/layout/Auth.jsx";
 
 export default Auth;
