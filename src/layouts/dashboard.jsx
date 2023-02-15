@@ -1,6 +1,8 @@
 import { Routes, Route } from "react-router-dom";
 import { Cog6ToothIcon } from "@heroicons/react/24/solid";
 import { IconButton } from "@material-tailwind/react";
+import darkLogo from '../assets/logo-ct-dark.png';
+import normalLogo from '../assets/logo-ct.png';
 import {
   Sidenav,
   DashboardNavbar,
@@ -19,7 +21,7 @@ export function Dashboard() {
       <Sidenav
         routes={routes}
         brandImg={
-          sidenavType === "dark" ? "/mattpanel/assets/logo-ct.png" : "/mattpanel/assets/logo-ct-dark.png"
+          sidenavType === "dark" ? `${normalLogo}` : `${darkLogo}`
         }
       />
       <div className="p-4 xl:ml-80">
