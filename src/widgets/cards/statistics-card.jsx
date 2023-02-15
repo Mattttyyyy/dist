@@ -68,6 +68,6 @@ StatisticsCard.propTypes = {
   footer: PropTypes.node,
 };
 
-StatisticsCard.displayName = "/mattpanel/widgets/cards/statistics-card.jsx";
+StatisticsCard.displayName = "/src/widgets/cards/statistics-card.jsx";
 
 export default StatisticsCard;

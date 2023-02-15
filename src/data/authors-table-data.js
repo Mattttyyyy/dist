@@ -1,6 +1,6 @@
 export const authorsTableData = [
   {
-    img: "/mattpanel/assets/team-2.jpeg",
+    img: "/src/assets/team-2.jpeg",
     name: "John Michael",
     email: "john@mattttyyyy.com",
     job: ["Manager", "Organization"],
@@ -8,7 +8,7 @@ export const authorsTableData = [
     date: "23/04/18",
   },
   {
-    img: "/mattpanel/assets/team-1.jpeg",
+    img: "/src/assets/team-1.jpeg",
     name: "Alexa Liras",
     email: "alexa@mattttyyyy.com",
     job: ["Programator", "Developer"],
@@ -16,7 +16,7 @@ export const authorsTableData = [
     date: "11/01/19",
   },
   {
-    img: "/mattpanel/assets/team-4.jpeg",
+    img: "/src/assets/team-4.jpeg",
     name: "Laurent Perrier",
     email: "laurent@mattttyyyy.com",
     job: ["Executive", "Projects"],
@@ -24,7 +24,7 @@ export const authorsTableData = [
     date: "19/09/17",
   },
   {
-    img: "/mattpanel/assets/team-3.jpeg",
+    img: "/src/assets/team-3.jpeg",
     name: "Michael Levi",
     email: "michael@mattttyyyy.com",
     job: ["Programator", "Developer"],
@@ -32,7 +32,7 @@ export const authorsTableData = [
     date: "24/12/08",
   },
   {
-    img: "/mattpanel/assets/bruce-mars.jpeg",
+    img: "/src/assets/bruce-mars.jpeg",
     name: "Bruce Mars",
     email: "bruce@mattttyyyy.com",
     job: ["Manager", "Executive"],
@@ -40,7 +40,7 @@ export const authorsTableData = [
     date: "04/10/21",
   },
   {
-    img: "/mattpanel/assets/team-2.jpeg",
+    img: "/src/assets/team-2.jpeg",
     name: "Alexander",
     email: "alexander@mattttyyyy.com",
     job: ["Programator", "Developer"],
