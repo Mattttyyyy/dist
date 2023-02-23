@@ -45,7 +45,7 @@ export function MaterialTailwindControllerProvider({ children }) {
     () => [controller, dispatch],
     [controller, dispatch]
   );
-
+ 
   return (
     <MaterialTailwind.Provider value={value}>
       {children}
