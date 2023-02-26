@@ -44,6 +44,6 @@ export const ordersOverviewData = [
     title: "New order #9583120",
     description: "17 DEC",
   },
-];
+]; 
 
 export default ordersOverviewData;
